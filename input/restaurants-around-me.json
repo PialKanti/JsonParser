@@ -1,0 +1,792 @@
+{
+  "Rana Hotel": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Kaliganj, Keraniganj, Bangladesh",
+    "name": "Rana Hotel",
+    "location": {
+      "lng": 90.40705,
+      "lat": 23.6969322
+    },
+    "url": "https://maps.google.com/?cid=6937346584953914433"
+  },
+  "Monika Hotel And Biriyani House": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Chunkutia Middle Para, South Keranigonj, ঢাকা 1310, Bangladesh",
+    "name": "Monika Hotel And Biriyani House",
+    "periods": [
+      {
+        "close": {
+          "time": "0000",
+          "day": 1
+        },
+        "open": {
+          "time": "0600",
+          "day": 0
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 2
+        },
+        "open": {
+          "time": "0600",
+          "day": 1
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 3
+        },
+        "open": {
+          "time": "0600",
+          "day": 2
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 4
+        },
+        "open": {
+          "time": "0600",
+          "day": 3
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 5
+        },
+        "open": {
+          "time": "0600",
+          "day": 4
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 6
+        },
+        "open": {
+          "time": "0600",
+          "day": 5
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 0
+        },
+        "open": {
+          "time": "0600",
+          "day": 6
+        }
+      }
+    ],
+    "phone_number": "01708-655417",
+    "location": {
+      "lng": 90.40174689999999,
+      "lat": 23.696736
+    },
+    "url": "https://maps.google.com/?cid=17420957456122180417"
+  },
+  "Vai Vai Hotel & Restaurent": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Keraniganj, Bangladesh",
+    "name": "Vai Vai Hotel & Restaurent",
+    "rating": 3.6,
+    "phone_number": "01624-707772",
+    "location": {
+      "lng": 90.3986671,
+      "lat": 23.6960397
+    },
+    "url": "https://maps.google.com/?cid=13908228788687621992"
+  },
+  "Food House Restaurant": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Keraniganj, Bangladesh",
+    "name": "Food House Restaurant",
+    "rating": 4.4,
+    "periods": [
+      {
+        "close": {
+          "time": "2300",
+          "day": 0
+        },
+        "open": {
+          "time": "1000",
+          "day": 0
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 1
+        },
+        "open": {
+          "time": "1000",
+          "day": 1
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 2
+        },
+        "open": {
+          "time": "1000",
+          "day": 2
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 3
+        },
+        "open": {
+          "time": "1000",
+          "day": 3
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 4
+        },
+        "open": {
+          "time": "1000",
+          "day": 4
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 5
+        },
+        "open": {
+          "time": "1000",
+          "day": 5
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 6
+        },
+        "open": {
+          "time": "1000",
+          "day": 6
+        }
+      }
+    ],
+    "phone_number": "01978-700202",
+    "location": {
+      "lng": 90.4047872,
+      "lat": 23.6999206
+    },
+    "url": "https://maps.google.com/?cid=2090625937140382724"
+  },
+  "Bismillah Hotel & Restaurant": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "East Chrail, Chrail Club Road, Golam Bazar Road, Keraniganj, ঢাকা 1310, Bangladesh",
+    "name": "Bismillah Hotel & Restaurant",
+    "periods": [
+      {
+        "close": {
+          "time": "0000",
+          "day": 1
+        },
+        "open": {
+          "time": "0600",
+          "day": 0
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 2
+        },
+        "open": {
+          "time": "0600",
+          "day": 1
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 3
+        },
+        "open": {
+          "time": "0600",
+          "day": 2
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 4
+        },
+        "open": {
+          "time": "0600",
+          "day": 3
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 5
+        },
+        "open": {
+          "time": "0600",
+          "day": 4
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 6
+        },
+        "open": {
+          "time": "0600",
+          "day": 5
+        }
+      },
+      {
+        "close": {
+          "time": "0000",
+          "day": 0
+        },
+        "open": {
+          "time": "0600",
+          "day": 6
+        }
+      }
+    ],
+    "phone_number": "01763-179562",
+    "location": {
+      "lng": 90.3932245,
+      "lat": 23.697552
+    },
+    "url": "https://maps.google.com/?cid=13289495708967875021"
+  },
+  "vai vai Hotel": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Golam Bazar Rd, Keraniganj, Bangladesh",
+    "name": "vai vai Hotel",
+    "rating": 3.7,
+    "location": {
+      "lng": 90.3971332,
+      "lat": 23.6994791
+    },
+    "url": "https://maps.google.com/?cid=8552154905483452675"
+  },
+  "Vai Vai Hotel And Biriyani House": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Porbo Banda Dakpara, Baitur Rahmat Jame Masjid Road, Keraniganj, ঢাকা 1310, Bangladesh",
+    "name": "Vai Vai Hotel And Biriyani House",
+    "rating": 3,
+    "periods": [
+      {
+        "close": {
+          "time": "2359",
+          "day": 0
+        },
+        "open": {
+          "time": "0600",
+          "day": 0
+        }
+      },
+      {
+        "close": {
+          "time": "2359",
+          "day": 1
+        },
+        "open": {
+          "time": "0600",
+          "day": 1
+        }
+      },
+      {
+        "close": {
+          "time": "2359",
+          "day": 2
+        },
+        "open": {
+          "time": "0600",
+          "day": 2
+        }
+      },
+      {
+        "close": {
+          "time": "2359",
+          "day": 3
+        },
+        "open": {
+          "time": "0600",
+          "day": 3
+        }
+      },
+      {
+        "close": {
+          "time": "2359",
+          "day": 4
+        },
+        "open": {
+          "time": "0600",
+          "day": 4
+        }
+      },
+      {
+        "close": {
+          "time": "1300",
+          "day": 5
+        },
+        "open": {
+          "time": "0600",
+          "day": 5
+        }
+      },
+      {
+        "close": {
+          "time": "2359",
+          "day": 6
+        },
+        "open": {
+          "time": "0600",
+          "day": 6
+        }
+      }
+    ],
+    "phone_number": "01858-928074",
+    "location": {
+      "lng": 90.3958715,
+      "lat": 23.7007583
+    },
+    "url": "https://maps.google.com/?cid=9352591683080660556"
+  },
+  "Euro Hut Chinese Restaurant And Party Center": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "শুভাঢা হাই স্কুল রোড, Keraniganj, Bangladesh",
+    "name": "Euro Hut Chinese Restaurant And Party Center",
+    "rating": 3.5,
+    "periods": [
+      {
+        "close": {
+          "time": "2300",
+          "day": 0
+        },
+        "open": {
+          "time": "1100",
+          "day": 0
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 1
+        },
+        "open": {
+          "time": "1100",
+          "day": 1
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 2
+        },
+        "open": {
+          "time": "1100",
+          "day": 2
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 3
+        },
+        "open": {
+          "time": "1100",
+          "day": 3
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 4
+        },
+        "open": {
+          "time": "1100",
+          "day": 4
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 5
+        },
+        "open": {
+          "time": "1100",
+          "day": 5
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 6
+        },
+        "open": {
+          "time": "1100",
+          "day": 6
+        }
+      }
+    ],
+    "phone_number": "01750-654210",
+    "location": {
+      "lng": 90.39921729999999,
+      "lat": 23.6948372
+    },
+    "url": "https://maps.google.com/?cid=3171281063172708775"
+  },
+  "Allahar Dan Biriyani House": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Dhaka, Bangladesh",
+    "name": "Allahar Dan Biriyani House",
+    "rating": 4.5,
+    "phone_number": "01787-078965",
+    "location": {
+      "lng": 90.4045361,
+      "lat": 23.6979876
+    },
+    "url": "https://maps.google.com/?cid=17633800789881206248"
+  },
+  "Laboni Chinese Resturent": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Keraniganj, Bangladesh",
+    "name": "Laboni Chinese Resturent",
+    "rating": 3.4,
+    "periods": [
+      {
+        "close": {
+          "time": "2300",
+          "day": 0
+        },
+        "open": {
+          "time": "1030",
+          "day": 0
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 1
+        },
+        "open": {
+          "time": "1030",
+          "day": 1
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 2
+        },
+        "open": {
+          "time": "1030",
+          "day": 2
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 3
+        },
+        "open": {
+          "time": "1030",
+          "day": 3
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 4
+        },
+        "open": {
+          "time": "1030",
+          "day": 4
+        }
+      },
+      {
+        "close": {
+          "time": "2300",
+          "day": 6
+        },
+        "open": {
+          "time": "1030",
+          "day": 6
+        }
+      }
+    ],
+    "phone_number": "01851-581555",
+    "location": {
+      "lng": 90.3988284,
+      "lat": 23.69595469999999
+    },
+    "url": "https://maps.google.com/?cid=14299694081683719595"
+  },
+  "Bismillah Ghoroa Hotel": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Kaligonj Bazar, S. Keranigonj, ঢাকা 1310, Bangladesh",
+    "name": "Bismillah Ghoroa Hotel",
+    "rating": 5,
+    "periods": [
+      {
+        "close": {
+          "time": "2200",
+          "day": 0
+        },
+        "open": {
+          "time": "0900",
+          "day": 0
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 1
+        },
+        "open": {
+          "time": "0900",
+          "day": 1
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 2
+        },
+        "open": {
+          "time": "0900",
+          "day": 2
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 3
+        },
+        "open": {
+          "time": "0900",
+          "day": 3
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 4
+        },
+        "open": {
+          "time": "0900",
+          "day": 4
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 5
+        },
+        "open": {
+          "time": "0900",
+          "day": 5
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 6
+        },
+        "open": {
+          "time": "0900",
+          "day": 6
+        }
+      }
+    ],
+    "phone_number": "01728-162774",
+    "location": {
+      "lng": 90.40344879999999,
+      "lat": 23.6971455
+    },
+    "url": "https://maps.google.com/?cid=10337751576462994397"
+  },
+  "Potuakhalir Vai Vai Biriani House": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Golam Bazar Rd, Keraniganj, Bangladesh",
+    "name": "Potuakhalir Vai Vai Biriani House",
+    "rating": 3.8,
+    "periods": [
+      {
+        "open": {
+          "time": "0000",
+          "day": 0
+        }
+      }
+    ],
+    "phone_number": "01728-213930",
+    "location": {
+      "lng": 90.3976925,
+      "lat": 23.7008152
+    },
+    "url": "https://maps.google.com/?cid=10102759109264352352"
+  },
+  "Yeachin Hotel": {
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "address": "Khazurbag Blayet Road, South Keranigonj, ঢাকা 1310, Bangladesh",
+    "name": "Yeachin Hotel",
+    "rating": 4,
+    "periods": [
+      {
+        "close": {
+          "time": "2200",
+          "day": 0
+        },
+        "open": {
+          "time": "0600",
+          "day": 0
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 1
+        },
+        "open": {
+          "time": "0600",
+          "day": 1
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 2
+        },
+        "open": {
+          "time": "0600",
+          "day": 2
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 3
+        },
+        "open": {
+          "time": "0600",
+          "day": 3
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 4
+        },
+        "open": {
+          "time": "0600",
+          "day": 4
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 5
+        },
+        "open": {
+          "time": "0600",
+          "day": 5
+        }
+      },
+      {
+        "close": {
+          "time": "2200",
+          "day": 6
+        },
+        "open": {
+          "time": "0600",
+          "day": 6
+        }
+      }
+    ],
+    "phone_number": "01778-103323",
+    "location": {
+      "lng": 90.40771149999999,
+      "lat": 23.6978292
+    },
+    "url": "https://maps.google.com/?cid=3422861856081616898"
+  }
+}
